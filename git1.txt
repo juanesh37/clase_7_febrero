@@ -21,4 +21,10 @@ mkdir
 
 rm -rf .git --- para eliminar el git
 
+git branches -- ramas
 
+sirven para guardar cambios que no vas a guardar en la rama principal
+
+ejemplo: está la rama master y puedo crear una rama que se llame iss53 entonces quedaría así:
+
+git push origin iss53
