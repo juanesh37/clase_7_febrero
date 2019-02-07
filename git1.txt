@@ -5,6 +5,20 @@ Juan Esteban Herrera Morales
 sdasdasddasd
 
 
+1) www.git.scm.com/downloads
 
+2) Ir a www.github.com o gitlab.com (Preferiblemente github) y crear un usuario con un correo personal o universitario
+
+git init -- iniciar el git
+
+git status -- para saber que todo está ok
+
+git add -- agregar al repositorio
+
+git commit -m "mi primer commit"
+
+mkdir 
+
+rm -rf .git --- para eliminar el git
 
 
